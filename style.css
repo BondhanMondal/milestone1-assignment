@@ -5,13 +5,15 @@ body{
 }
 .display-flex{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 49%;
     padding-left: 2%;
+    
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
 
 }
 h1{
@@ -62,3 +64,15 @@ h2{
     border-radius: 5px;
 
 }
+h3{
+    font-size: 20px;
+    font-weight: 900;
+    margin: 0;
+}
+/* .develop-area{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 30%;
+    
+} */
